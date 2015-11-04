@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/hackweek_10/trackbot-0.1/DynamixelMove.c
+stdio.h
+-
+termio.h
+-
+unistd.h
+-
+dynamixel.h
+-
+

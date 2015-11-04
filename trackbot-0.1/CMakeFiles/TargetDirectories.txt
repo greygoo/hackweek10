@@ -1,0 +1,1 @@
+/home/tux/hackweek_10/trackbot-0.1/CMakeFiles/trackbot.dir

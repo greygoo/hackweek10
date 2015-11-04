@@ -1,0 +1,2 @@
+/home/pi/hackweek_10/bytefish-libfacerec-e1b143d/CMakeFiles/fisherfaces.dir
+/home/pi/hackweek_10/bytefish-libfacerec-e1b143d/CMakeFiles/opencv_facerec.dir
